@@ -4,8 +4,6 @@ class Solution(object):
 
         result = []
 
-        # MONE MONE, MONE MOOOONEE
-
         for x in reversed(nums): # [1,3,5,2,3]
             result.append(x)
             if x in match_list:
