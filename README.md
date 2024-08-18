@@ -9,6 +9,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AbiramDevOps/LeetCode/tree/master/0264-ugly-number-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AbiramDevOps/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Bit Manipulation
 |  |
@@ -30,4 +31,16 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AbiramDevOps/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/AbiramDevOps/LeetCode/tree/master/0264-ugly-number-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/AbiramDevOps/LeetCode/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/AbiramDevOps/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
